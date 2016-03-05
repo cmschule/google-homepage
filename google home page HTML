@@ -1,0 +1,28 @@
+<div class="google_page">
+  <div class="header">
+    <div class="toolbar">
+      <div class="username">
+        <p>Chris</p>
+      </div>
+      <div class="mail">
+        <a href="#">Mail</a>
+      </div>
+      <div class="images"><a href="#">Images</a></div>
+      <div class="google_apps"></div>
+      <div class="google_notifs"></div>
+      <div class="google_account"></div>
+    </div>
+  </div>
+  <div class="google_logo"><img width="272" height="92" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"></div>
+  <div class="search_bar">
+    <form action = "#">
+      <input type = "text">
+    </form>
+  </div>
+  <div class="buttons">
+    <form action"#">
+      <input type="submit" value="Google Search" name="search">
+    </form>
+      
+  </div>
+</div>

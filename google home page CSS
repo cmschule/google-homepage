@@ -1,0 +1,134 @@
+p {
+  padding:0;
+  margin:0;
+}
+
+a {
+  color:black;
+  text-decoration:none;
+}
+
+.google_page {
+  padding:0;
+  margin:0;
+}
+
+.header {
+  padding-top:20px;
+  margin:0;
+  font-family:arial;
+  font-size:13px;
+}
+
+.toolbar {
+  padding:0;
+  margin:0;
+  position:relative;
+  right:-75%;
+  width:25%
+}
+
+.username {
+  color:gray;
+  top:0;
+  left:0;
+  width:30px;
+  position:absolute;
+}
+
+.mail {
+  color:black;
+  padding-left: 5px;
+  width:30px;
+  position:absolute;
+  top:0;
+  left:14%;
+}
+
+.images {
+  color:black;
+  padding-left: 5px;
+  width:30px;
+  position:absolute;
+  top:0;
+  left:28%;
+}
+
+.google_apps {
+  position:absolute;
+  top:-8px;
+  left:49%;
+  background-image:url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+  background-size: 528px 68px;
+  background-position:-132px -38px;
+  opacity:0.55;
+  height:30px;
+  width:30px;
+}
+
+.google_apps:hover {
+  color:black;
+  opacity:1;
+}
+
+.google_notifs {
+  background:black;
+  position:absolute;
+  top:-3px;
+  left:65%;
+  border-radius:10px;
+  background-image:url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+  background-size: 528px 68px;
+  background-position:-194px -21px;
+  opacity:0.55;
+  height:20px;
+  width:20px;
+}
+
+.google_notifs:hover {
+  opacity:1;
+}
+
+.google_account {
+  background-image:url('https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Washington_Caps_Alternate.svg/1280px-Washington_Caps_Alternate.svg.png');
+  background-size: 20px 20px;
+  position:absolute;
+  top:-2px;
+  left:79%;
+  width:20px;
+  height:20px;
+}
+
+.google_logo {
+  padding:0;
+  margin:0;
+  position:relative;
+  margin-top:200px;
+  left:50%;
+  width:272px;
+  height:92px;
+}
+
+.google_logo img {
+  position:relative;
+  left:-136px;
+}
+
+.search_bar {
+  margin-top:15px;
+  position:relative;
+  text-align:center;
+}
+
+input[type="text"] {
+  width:544px;
+}
+
+.buttons{
+  margin-top:10px;
+  text-align: center;
+}
+
+input[type="submit"] {
+  width:100px;
+}
